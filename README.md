@@ -1,6 +1,6 @@
 # web_clonecoding 
 
-사용언어: HTML, CSS, JAVASCRIPT <br/>
+<code>사용언어: HTML, CSS, JAVASCRIPT <\code>
 
 2024/7/2
 login 버튼을 굳이 누르지 않고 엔터만을 이용해 from을 제출하는 법
