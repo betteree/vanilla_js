@@ -1,4 +1,4 @@
-# web_clonecoding 
+# To-do list 웹 구현
 
 <code>사용언어: HTML, CSS, JAVASCRIPT 
 
