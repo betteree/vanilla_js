@@ -2,7 +2,7 @@
 
 <code>사용언어: HTML, CSS, JAVASCRIPT 
 
-실행경로: [To-do list][https://betteree.github.io/vanilla_js/]
+실행경로: [To-do list](https://betteree.github.io/vanilla_js/)
 
 
 # 웹 기능
